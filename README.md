@@ -1,8 +1,12 @@
+<div align="center">
+<img src="https://github.com/Tech-Psycho95/KhetAI/blob/main/logo/khetAI%20-%20logo.jpg" width="400" height="90%">
+</div>
+
 # AgriAdvisor: AI Crop Disease Diagnostic Tool
 
 AgriAdvisor is a full-stack, offline-first web application designed to help Indian farmers diagnose crop diseases using AI. By leveraging a local multimodal AI model, it provides crucial agricultural advice even without an internet connection, breaking down barriers of connectivity and language.
 
-![AgriAdvisor Screenshot](https://i.imgur.com/your-screenshot.png) <!-- Replace with an actual screenshot -->
+![AgriAdvisor Screenshot](https://i.imgur.com/your-screenshot.png)
 
 ## The Problem
 
