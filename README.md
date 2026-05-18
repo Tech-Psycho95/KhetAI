@@ -18,7 +18,7 @@ AgriAdvisor tackles this by:
 
 -   **Backend:** FastAPI (Python)
 -   **Frontend:** Plain HTML, CSS, and JavaScript with Tailwind CSS via CDN.
--   **AI Model:** Ollama running `gemma4:4b` (or a similar multimodal model).
+-   **AI Model:** Ollama running `gemma4:e4b` (or a similar multimodal model).
 
 ## Setup and Installation
 
