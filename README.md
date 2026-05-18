@@ -18,7 +18,7 @@ AgriAdvisor tackles this by:
 
 -   **Backend:** FastAPI (Python)
 -   **Frontend:** Plain HTML, CSS, and JavaScript with Tailwind CSS via CDN.
--   **AI Model:** Ollama running `gemma4:4b` (or a similar multimodal model).
+-   **AI Model:** Ollama running `gemma4:e4b` (or a similar multimodal model).
 
 ## Setup and Installation
 
@@ -29,10 +29,10 @@ Follow these steps to get AgriAdvisor running on your local machine.
 First, you need to install Ollama, a tool for running large language models locally.
 
 -   Download and install Ollama from [ollama.com](https://ollama.com/).
--   Once installed, open your terminal and pull the `gemma4:4b` model. This model is powerful enough for multimodal analysis (image and text) and runs efficiently on consumer hardware.
+-   Once installed, open your terminal and pull the `gemma4:e4b` model. This model is powerful enough for multimodal analysis (image and text) and runs efficiently on consumer hardware.
 
 ```bash
-ollama pull gemma4:4b
+ollama pull gemma4:e4b
 ```
 
 ### 2. Set Up the Python Backend
@@ -41,7 +41,7 @@ The backend is built with FastAPI.
 
 -   **Clone the repository (or download the files):**
     ```bash
-    git clone https://github.com/your-repo/agri-advisor.git
+    git clone https://github.com/your-repo/KhetAI.git
     cd agri-advisor
     ```
 -   **Create a virtual environment and install dependencies:**
