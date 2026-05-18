@@ -2,17 +2,17 @@
 <img src="https://github.com/Tech-Psycho95/KhetAI/blob/main/logo/khetAI%20-%20logo.jpg" width="400" height="90%">
 </div>
 
-# AgriAdvisor: AI Crop Disease Diagnostic Tool
+# KhetAI: AI Crop Disease Diagnostic Tool
 
-AgriAdvisor is a full-stack, offline-first web application designed to help Indian farmers diagnose crop diseases using AI. By leveraging a local multimodal AI model, it provides crucial agricultural advice even without an internet connection, breaking down barriers of connectivity and language.
+KhetAI is a full-stack, offline-first web application designed to help Indian farmers diagnose crop diseases using AI. By leveraging a local multimodal AI model, it provides crucial agricultural advice even without an internet connection, breaking down barriers of connectivity and language.
 
-![AgriAdvisor Screenshot](https://i.imgur.com/your-screenshot.png)
+![KhetAI Screenshot](https://i.imgur.com/your-screenshot.png)
 
 ## The Problem
 
 A significant portion of India's agricultural community operates in rural areas with limited or no internet access. When crops are affected by diseases or pests, farmers struggle to get timely and accurate advice. This can lead to incorrect treatments, reduced yields, and financial loss. Language barriers further complicate access to expert knowledge.
 
-AgriAdvisor tackles this by:
+KhetAI tackles this by:
 1.  **Offline First:** Running entirely on a local machine, requiring no internet for its core diagnostic functions.
 2.  **AI-Powered Diagnosis:** Using a powerful multimodal AI model to analyze images of crops.
 3.  **Multilingual Support:** Providing advice in multiple Indian languages to ensure accessibility.
@@ -26,7 +26,7 @@ AgriAdvisor tackles this by:
 
 ## Setup and Installation
 
-Follow these steps to get AgriAdvisor running on your local machine.
+Follow these steps to get KhetAI running on your local machine.
 
 ### 1. Install Ollama and Pull the AI Model
 
@@ -77,7 +77,7 @@ The frontend is a single `index.html` file that communicates with the local back
 
 ## Why Gemma 4?
 
-The `gemma4` family of models represents a significant step in open-source AI. For the AgriAdvisor project, `gemma4:4b` was chosen for several key reasons:
+The `gemma4` family of models represents a significant step in open-source AI. For the KhetAI project, `gemma4:4b` was chosen for several key reasons:
 
 -   **Multimodality:** It can process both images and text simultaneously, which is essential for analyzing a crop photo and a farmer's question together.
 -   **Performance on Local Hardware:** It is optimized to run efficiently on standard CPUs and GPUs, making it accessible without requiring expensive cloud infrastructure.
