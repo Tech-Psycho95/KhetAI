@@ -95,3 +95,5 @@ This project is designed with future growth in mind. The following table outline
 | **3** | **Hybrid Online**     | The app can optionally sync with a central server to update models, contribute anonymized data, and get new advice. | AWS/Azure, Docker, PostgreSQL/MongoDB          |
 | **4** | **Mobile App**        | Native mobile apps (Android/iOS) with offline capabilities, using a lightweight, on-device model for instant triage. | React Native/Flutter, TensorFlow Lite/Core ML  |
 | **5** | **Platform Ecosystem**| A full platform with farmer profiles, historical data, regional disease tracking, and a marketplace for supplies.    | Microservices, Kafka, GIS, Advanced Analytics  |
+
+                                                     Built with ❤️ By Shivam
